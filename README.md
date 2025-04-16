@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate **Data Scientist** and **AI Devel
 
 ## 🚀 What I’m Currently Working On
 - **TransformerTech** 🔌: A full-stack system for cost management and technical support in the transformer industry (React, Supabase, TailwindCSS).
-- **Business Intelligence Dashboards** 📊: Power BI tools to enhance decision-making and financial tracking.
+- **Business Intelligence Dashboards** 📊: Dahsboard tools to enhance decision-making and financial tracking.
 - **Deep Learning & ML Projects** 🧠: With real-world applications in education, finance, and conservation.
 
 ---
