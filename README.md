@@ -59,7 +59,7 @@ Welcome to my GitHub profile! I'm a passionate **Data Scientist** and **AI Devel
 - 🔌 **TransformerTech** – Integrated platform for transformer lifecycle & cost tracking *(Private)*
 - 🌱 [Data Challenge Pro - Cerrejón Biodiversity Analysis](https://github.com/juanes213/Data-Challenge-Pro-V2) • [Live Dashboard](https://ayrgthon.github.io/dcp.html)
 - 💸 [Optimization Model for Investment Decisions](https://optimizacion-final.onrender.com/) • [📄 Informe](./Informe_Optimizacion_Matematica.pdf)
-- 🎓 [University Subject Demand Forecasting Tool](./seminario_investigativo.pdf)
+- 🎓 [University Subject Demand Forecasting Tool]• [📄 Informe](./seminario_investigativo.pdf)
 - 🐦 [Deep Learning Bird Species Detection](https://optimizacion-final.onrender.com/)
 - 📈 [Machine Learning Trading Dashboard](https://machinelearning-project-gwao.onrender.com/)
 
