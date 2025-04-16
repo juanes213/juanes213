@@ -3,8 +3,8 @@
 Welcome to my GitHub profile! I'm a passionate **Data Scientist** and **AI Developer** focused on solving real-world problems through both **intelligent automation** and **advanced predictive modeling** using Machine Learning and Deep Learning. I enjoy building scalable systems, training models, and creating data-driven solutions that improve operations and enable better decision-making.
 
 🌎 Based in **Barranquilla, Colombia**  
-🎓 Data Science @ Universidad del Norte (Expected 2025)  
-🎓 Activities and societies: Vice President of Singularity Data Science Student Group | Events and Logistics Director of Astronorte Student Group  
+🎓 Data Science @ Universidad del Norte (Expected September 2025)  
+🎓 Activities and societies: Vice President of Singularity Data Science Student Group (3 years) | Events and Logistics Director of Astronorte Student Group (3 years)
 🌐 Portfolio: [juan-albis.onrender.com](https://juan-albis.onrender.com)  
 📫 Contact: [juanes.200.200@gmail.com](mailto:juanes.200.200@gmail.com)
 
