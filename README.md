@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate **Data Scientist** and **AI Devel
 
 🌎 Based in **Barranquilla, Colombia**  
 🎓 Data Science @ Universidad del Norte (Expected September 2025)  
-🎓 Activities and societies: Vice President of Singularity Data Science Student Group (3 years) | Events and Logistics Director of Astronorte Student Group (3 years)
+🎓 Activities and societies: Co-founder and Vice President of Singularity Data Science Student Group (2.5 years) | Events and Logistics Director of Astronorte Student Group (3 years)
 🌐 Portfolio: [juan-albis.onrender.com](https://juan-albis.onrender.com)  
 📫 Contact: [juanes.200.200@gmail.com](mailto:juanes.200.200@gmail.com)
 
