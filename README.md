@@ -5,15 +5,15 @@ Welcome to my GitHub profile! I'm a passionate **Data Scientist** and **AI Devel
 🌎 Based in **Barranquilla, Colombia**  
 🎓 Data Science @ Universidad del Norte (Expected 2025)  
 🎓 Activities and societies: Vice President of Singularity Data Science Student Group | Events and Logistics Director of Astronorte Student Group  
-🌐 Portfolio: [juan-albis.lovable.app](https://juan-albis.lovable.app)  
+🌐 Portfolio: [juan-albis.onrender.com](https://juan-albis.onrender.com)  
 📫 Contact: [juanes.200.200@gmail.com](mailto:juanes.200.200@gmail.com)
 
 ---
 
 ## 🚀 What I’m Currently Working On
 - **TransformerTech** 🔌: A full-stack system for cost management and technical support in the transformer industry (React, Supabase, TailwindCSS).
-- **AI Chatbot** 🤖: Built with NLP techniques to retrieve historical transformer interventions and diagnostics.
 - **Business Intelligence Dashboards** 📊: Power BI tools to enhance decision-making and financial tracking.
+- **Deep Learning & ML Projects** 🧠: With real-world applications in education, finance, and conservation.
 
 ---
 
@@ -48,23 +48,25 @@ Welcome to my GitHub profile! I'm a passionate **Data Scientist** and **AI Devel
 ---
 
 ## 🏆 Highlights
-- 🥇 Winner of the **Data Challenge Pro - Promigas & Cerrejón** for biodiversity modeling & dashboarding
-- 💡 Built and deployed a **machine learning trading dashboard** using Dash
-- 📚 Built a subject demand forecasting tool for **university course optimization**
-- 🤝 Collaborative mindset and love for building tools with real impact
+- 🥇 Recognized as the winner of the Data Challenge Pro - Promigas & Cerrejón for biodiversity modeling & dashboarding for two years running.
+- 📊 Developed a full-stack ML dashboard to forecast **student course demand** at the university
+- 💰 Built an **optimization tool** for investment decisions using mathematical programming
+- 🐦 Created a deep learning app to detect **bird species** from images
 
 ---
 
 ## 📌 Featured Projects
-- 🎯 [TransformerTech Cost Management System](https://github.com/juanesteban-albis/transformertech) *(Private)*
-- 💬 AI Chatbot for Historical Transformer Queries *(Internal Tool)*
-- 📊 [ML Trading Dashboard](https://github.com/juanesteban-albis/trading-dashboard)
-- 📈 [University Course Demand Prediction](https://github.com/juanesteban-albis/course-demand-predictor)
+- 🔌 **TransformerTech** – Integrated platform for transformer lifecycle & cost tracking *(Private)*
+- 🌱 [Data Challenge Pro - Cerrejón Biodiversity Analysis](https://github.com/juanes213/Data-Challenge-Pro-V2) • [Live Dashboard](https://ayrgthon.github.io/dcp.html)
+- 💸 [Optimization Model for Investment Decisions](https://optimizacion-final.onrender.com/) • [📄 Informe](./Informe_Optimizacion_Matematica.pdf)
+- 🎓 [University Subject Demand Forecasting Tool](./seminario_investigativo.pdf)
+- 🐦 [Deep Learning Bird Species Detection](https://optimizacion-final.onrender.com/)
+- 📈 [Machine Learning Trading Dashboard](https://machinelearning-project-gwao.onrender.com/)
 
 ---
 
 ## 📬 Let's Connect
-- 🌐 [Portfolio](https://juan-albis.lovable.app)
+- 🌐 [Portfolio](https://juan-albis.onrender.com)
 - 💼 [LinkedIn](https://linkedin.com/in/juan-esteban-albis-4672961b6)
 - 📧 [Email](mailto:juanes.200.200@gmail.com)
 
