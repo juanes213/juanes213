@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Juan Esteban Albis
 
-Welcome to my GitHub profile! I'm a passionate **Data Scientist** and **AI Developer** currently working on industry-grade solutions in the electrical and manufacturing sectors. I'm particularly interested in using data and AI to create scalable, intelligent systems that improve operations, automate workflows, and generate actionable insights.
+Welcome to my GitHub profile! I'm a passionate **Data Scientist** and **AI Developer** focused on solving real-world problems through both **intelligent automation** and **advanced predictive modeling** using Machine Learning and Deep Learning. I enjoy building scalable systems, training models, and creating data-driven solutions that improve operations and enable better decision-making.
 
 🌎 Based in **Barranquilla, Colombia**  
 🎓 Data Science @ Universidad del Norte (Expected 2025)  
+🎓 Activities and societies: Vice President of Singularity Data Science Student Group | Events and Logistics Director of Astronorte Student Group  
 🌐 Portfolio: [juan-albis.lovable.app](https://juan-albis.lovable.app)  
 📫 Contact: [juanes.200.200@gmail.com](mailto:juanes.200.200@gmail.com)
 
@@ -66,9 +67,5 @@ Welcome to my GitHub profile! I'm a passionate **Data Scientist** and **AI Devel
 - 🌐 [Portfolio](https://juan-albis.lovable.app)
 - 💼 [LinkedIn](https://linkedin.com/in/juan-esteban-albis-4672961b6)
 - 📧 [Email](mailto:juanes.200.200@gmail.com)
-
----
-
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanes213&show_icons=true&theme=radical)
 
 Thanks for stopping by! 🚀
