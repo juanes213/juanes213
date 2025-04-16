@@ -61,7 +61,7 @@ Welcome to my GitHub profile! I'm a passionate **Data Scientist** and **AI Devel
 - 💸 [Optimization Model for Investment Decisions](https://optimizacion-final.onrender.com/) • [📄 Informe](./Informe_Optimizacion_Matematica.pdf)
 - 🎓 [University Subject Demand Forecasting Tool]• [📄 Informe](./seminario_investigativo.pdf)
 - 🐦 [Deep Learning Bird Species Detection](https://optimizacion-final.onrender.com/)
-- 📈 [Machine Learning Trading Dashboard](https://machinelearning-project-gwao.onrender.com/)
+- 📈 [Machine Learning Trading Dashboard](https://machinelearning-project-gwao.onrender.com/)• [📄 Informe](./Articulo_ml_viz)
 
 ---
 
