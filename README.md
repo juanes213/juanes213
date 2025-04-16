@@ -67,4 +67,8 @@ Welcome to my GitHub profile! I'm a passionate **Data Scientist** and **AI Devel
 - 💼 [LinkedIn](https://linkedin.com/in/juan-esteban-albis-4672961b6)
 - 📧 [Email](mailto:juanes.200.200@gmail.com)
 
+---
+
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanesteban-albis&show_icons=true&theme=radical)
+
 Thanks for stopping by! 🚀
