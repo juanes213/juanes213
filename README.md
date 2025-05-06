@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Juan Esteban Albis
+# Juan Esteban Albis
 
 Welcome to my GitHub profile! I'm a passionate **Data Scientist** and **AI Developer** focused on solving real-world problems through both **intelligent automation** and **advanced predictive modeling** using Machine Learning and Deep Learning. I enjoy building scalable systems, training models, and creating data-driven solutions that improve operations and enable better decision-making.
 
