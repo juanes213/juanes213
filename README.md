@@ -13,8 +13,8 @@ Welcome to my GitHub profile! I'm a passionate **Data Scientist** and **AI Devel
 ---
 
 ## 🚀 What I’m Currently Working On
-- **TransformerTech** 🔌: A full-stack system for cost management and technical support in the transformer industry (React, Supabase, TailwindCSS).
-- **Business Intelligence Dashboards** 📊: Dahsboard tools to enhance decision-making and financial tracking.
+- **multi-Agentic Systems** 🔌: MCP server with a multi-agentic system for automating multiple processes.
+- **Business Intelligence Dashboards** 📊: Dashboard tools to enhance decision-making and financial tracking.
 - **Deep Learning & ML Projects** 🧠: With real-world applications in education, finance, and conservation.
 
 ---
@@ -26,6 +26,7 @@ Welcome to my GitHub profile! I'm a passionate **Data Scientist** and **AI Devel
 - SQL, PostgreSQL, MongoDB
 - Supabase, Firebase
 - Docker, Git, Jupyter, Vite
+- AWS RDS, AWS Lambda, AWS DynamoDB, AWS Bedrock
 
 ### Machine Learning
 - Scikit-learn, XGBoost, LightGBM
