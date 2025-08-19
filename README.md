@@ -1,76 +1,81 @@
 # Juan Esteban Albis
 
-Welcome to my GitHub profile! I'm a passionate **Data Scientist** and **AI Developer** focused on solving real-world problems through both **intelligent automation** and **advanced predictive modeling** using Machine Learning and Deep Learning. I enjoy building scalable systems, training models, and creating data-driven solutions that improve operations and enable better decision-making.
+**Data Scientist & AI Developer** specializing in intelligent automation and advanced predictive modeling. I architect scalable machine learning systems and deliver data-driven solutions that optimize operations and drive strategic decision-making across enterprise environments.
 
-🌎 Based in **Barranquilla, Colombia**  
-🎓 Data Science @ Universidad del Norte (Expected September 2025)  
-🎓 Activities and societies: Co-founder and Vice President of Singularity Data Science Student Group (2.5 years) | Events and Logistics Director of Astronorte Student Group (3 years)
+**Location:** Barranquilla, Colombia  
+**Education:** Data Science @ Universidad del Norte (Expected September 2025)  
+**Leadership:** Co-founder & Vice President, Singularity Data Science Student Group | Events & Logistics Director, Astronorte Student Group
 
-
-🌐 Portfolio: [juan-albis.onrender.com](https://juan-albis.onrender.com)  
-📫 Contact: [juanes.200.200@gmail.com](mailto:juanes.200.200@gmail.com)
-
----
-
-## 🚀 What I’m Currently Working On
-- **multi-Agentic Systems** 🔌: MCP server with a multi-agentic system for automating multiple processes.
-- **Business Intelligence Dashboards** 📊: Dashboard tools to enhance decision-making and financial tracking.
-- **Deep Learning & ML Projects** 🧠: With real-world applications in education, finance, and conservation.
+**Portfolio:** [juan-albis.onrender.com](https://juan-albis.onrender.com)  
+**Contact:** [juanes.200.200@gmail.com](mailto:juanes.200.200@gmail.com)
 
 ---
 
-## 🧠 Skills
+## Current Focus
 
-### Languages & Tools
-- Python, R, TypeScript, JavaScript
-- SQL, PostgreSQL, MongoDB
-- Supabase, Firebase
-- Docker, Git, Jupyter, Vite
-- AWS RDS, AWS Lambda, AWS DynamoDB, AWS Bedrock
+**Multi-Agentic Systems:** Developing MCP server architecture with multi-agentic systems for process automation across enterprise workflows.
 
-### Machine Learning
-- Scikit-learn, XGBoost, LightGBM
-- Regression, Classification, Clustering
-- Model Evaluation & Tuning
-- Time Series Forecasting
+**Business Intelligence:** Building advanced dashboard solutions for enhanced decision-making and financial performance tracking.
 
-### Deep Learning
-- TensorFlow, Keras, PyTorch
-- CNNs, RNNs, LSTMs, GANs
-- Transformers (BERT, GPT)
-- Custom AI Chatbots
-
-### Data Visualization & BI
-- Power BI, Dash, R Shiny, Tableau
-- Recharts, D3.js
-
-### Web Development
-- React 18, Tailwind CSS, Vite
-- REST APIs, Client-Server Architecture
+**Applied Machine Learning:** Creating production-ready ML systems with real-world applications in education, finance, and environmental conservation.
 
 ---
 
-## 🏆 Highlights
-- 🥇 Recognized as the winner of the Data Challenge Pro - Promigas & Cerrejón for biodiversity modeling & dashboarding for two years running.
-- 📊 Developed a full-stack ML dashboard to forecast **student course demand** at the university
-- 💰 Built an **optimization tool** for investment decisions using mathematical programming
-- 🐦 Created a deep learning app to detect **bird species** from images
+## Technical Expertise
+
+### Core Technologies
+- **Languages:** Python, R, TypeScript, JavaScript
+- **Databases:** SQL, PostgreSQL, MongoDB
+- **Cloud & Infrastructure:** AWS (RDS, Lambda, DynamoDB, Bedrock), Docker
+- **Development Tools:** Git, Jupyter, Vite, Supabase, Firebase
+
+### Machine Learning & Analytics
+- **Frameworks:** Scikit-learn, XGBoost, LightGBM
+- **Specializations:** Regression, Classification, Clustering, Time Series Forecasting
+- **Model Operations:** Evaluation, Tuning, Production Deployment
+
+### Deep Learning & AI
+- **Frameworks:** TensorFlow, Keras, PyTorch
+- **Architectures:** CNNs, RNNs, LSTMs, GANs, Transformers (BERT, GPT)
+- **Applications:** Custom AI Chatbots, Computer Vision, NLP
+
+### Data Visualization & Business Intelligence
+- **Enterprise Tools:** Power BI, Tableau
+- **Custom Solutions:** Dash, R Shiny, Recharts, D3.js
+
+### Full-Stack Development
+- **Frontend:** React 18, Tailwind CSS
+- **Architecture:** REST APIs, Client-Server Systems
 
 ---
 
-## 📌 Featured Projects
-- 🔌 **TransformerTech** – Integrated platform for transformer lifecycle & cost tracking *(Private)*
-- 🌱 [Data Challenge Pro - Cerrejón Biodiversity Analysis](https://github.com/juanes213/Data-Challenge-Pro-V2) • [Live Dashboard](https://ayrgthon.github.io/dcp.html)
-- 💸 [Optimization Model for Investment Decisions]• [Live Dashboard](https://optimizacion-final.onrender.com/) • [📄 Informe](./Informe_Optimizacion_Matematica.pdf)
-- 🎓 [University Subject Demand Forecasting Tool]• [📄 Informe](./seminario_investigativo.pdf)
-- 🐦 [Deep Learning Bird Species Detection]• [Live Dashboard](https://optimizacion-final.onrender.com/)
-- 📈 [Machine Learning Trading Dashboard]• [Live Dashboard](https://machinelearning-project-gwao.onrender.com/)• [📄 Informe](./Articulo_ml_viz)
+## Key Achievements
+
+- **Competition Winner:** Data Challenge Pro - Promigas & Cerrejón biodiversity modeling (consecutive years)
+- **University Impact:** Developed ML-powered student course demand forecasting system
+- **Financial Technology:** Built mathematical optimization tool for investment decision-making
+- **Computer Vision:** Created production-ready bird species detection application
 
 ---
 
-## 📬 Let's Connect
-- 🌐 [Portfolio](https://juan-albis.onrender.com)
-- 💼 [LinkedIn](https://linkedin.com/in/juan-esteban-albis-4672961b6)
-- 📧 [Email](mailto:juanes.200.200@gmail.com)
+## Featured Projects
 
-Thanks for stopping by! 🚀
+**TransformerTech** - Integrated platform for transformer lifecycle & cost tracking *(Private)*
+
+**[Data Challenge Pro - Cerrejón Biodiversity Analysis](https://github.com/juanes213/Data-Challenge-Pro-V2)** | [Live Dashboard](https://ayrgthon.github.io/dcp.html)
+
+**Optimization Model for Investment Decisions** | [Live Dashboard](https://optimizacion-final.onrender.com/) | [Technical Report](./Informe_Optimizacion_Matematica.pdf)
+
+**University Subject Demand Forecasting Tool** | [Technical Report](./seminario_investigativo.pdf)
+
+**Deep Learning Bird Species Detection** | [Live Dashboard](https://optimizacion-final.onrender.com/)
+
+**Machine Learning Trading Dashboard** | [Live Dashboard](https://machinelearning-project-gwao.onrender.com/) | [Technical Report](./Articulo_ml_viz)
+
+---
+
+## Professional Links
+
+**Portfolio:** [juan-albis.onrender.com](https://juan-albis.onrender.com)  
+**LinkedIn:** [juan-esteban-albis-4672961b6](https://linkedin.com/in/juan-esteban-albis-4672961b6)  
+**Email:** [juanes.200.200@gmail.com](mailto:juanes.200.200@gmail.com)
