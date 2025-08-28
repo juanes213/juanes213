@@ -6,7 +6,7 @@
 **Education:** Data Science @ Universidad del Norte (Expected September 2025)  
 **Leadership:** Co-founder & Vice President, Singularity Data Science Student Group | Events & Logistics Director, Astronorte Student Group
 
-**Portfolio:** [juan-albis.onrender.com](https://juan-albis.onrender.com)  
+**Portfolio:** [juan-albis.onrender.com](https://juan-e-albis.vercel.app/)  
 **Contact:** [juanes.200.200@gmail.com](mailto:juanes.200.200@gmail.com)
 
 ---
